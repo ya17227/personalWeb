@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yash Agarwal
 
 You can use the [editor on GitHub](https://github.com/ya17227/personalWeb/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
